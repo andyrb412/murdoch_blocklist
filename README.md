@@ -1,25 +1,15 @@
 # Murdoch Blocklist
 
-**Are you sick of the ever growing reach of the Murdoch media empire? Would you prefer to not give him your traffic? Good, me too.**
+**Are you sick of the ever growing reach of the Rupert Murdoch media empire? Would you prefer to not give him your traffic? Good, me too. Let's fight it together.**
 
-This is simply a list created for my personal use in blocking Murdoch assets at a DNS level. Feel free to make use of it as you see fit.
+This is a handy list which can be used to block Murdoch-owned at a DNS level. The list has been created for use with Pi-hole (https://pi-hole.net/), however should work with most other services.
 
-Specifically created for https://pi-hole.net/ compatibility.
+The list is manually updated as required. If you have additions or changes to share, please feel free to submit a PR.
 
-Manually and irregularly updated by myself.
+## How To Use ##
 
-Feel free to provide suggestions, or anything that I may have missed. I'll vet this information and then commit it.
+Add the list directly to Pi-hole (or your preferred service) with this URL:
 
-***
+https://raw.githubusercontent.com/andyrb412/murdoch_blocklist/master/murdoch_blocklist.txt
 
-Add the list directly to Pi-hole with this URL
-
-> https://raw.githubusercontent.com/suodrazah/murdoch_blocklist/master/murdoch_blocklist.txt
-
-***
-
-Original list source courtesy emilyapocalypse at ourhumanperspective
-
-> https://www.ourhumanperspective.com/murdoch/
-
-***
+Original list source created by emilyapocalypse at ourhumanperspective - https://www.ourhumanperspective.com/murdoch/
