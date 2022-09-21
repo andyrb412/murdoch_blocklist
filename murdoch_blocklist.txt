@@ -287,6 +287,7 @@
 0.0.0.0 m.my9nj.com
 0.0.0.0 m.myfun.com
 0.0.0.0 m.mynetworktv.com
+0.0.0.0 m.mytributes.com.au
 0.0.0.0 m.news-mail.com.au
 0.0.0.0 m.news.co.uk
 0.0.0.0 m.news.com.au
@@ -422,6 +423,7 @@
 0.0.0.0 my9nj.com
 0.0.0.0 myfun.com
 0.0.0.0 mynetworktv.com
+0.0.0.0 mytributes.com.au
 0.0.0.0 news-mail.com.au
 0.0.0.0 news.co.uk
 0.0.0.0 news.com.au
@@ -695,6 +697,7 @@
 0.0.0.0 www.my9nj.com
 0.0.0.0 www.myfun.com
 0.0.0.0 www.mynetworktv.com
+0.0.0.0 www.mytributes.com.au
 0.0.0.0 www.news-mail.com.au
 0.0.0.0 www.news.co.uk
 0.0.0.0 www.news.com.au
