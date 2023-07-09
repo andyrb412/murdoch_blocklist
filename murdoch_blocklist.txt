@@ -8,6 +8,8 @@
 0.0.0.0 adelaidenow.com.au
 0.0.0.0 advertiser.com.au
 0.0.0.0 arn.com.au
+0.0.0.0 australiachannel.com.au
+0.0.0.0 australiannewschannel.com.au
 0.0.0.0 ballinaadvocate.com.au
 0.0.0.0 balonnebeacon.com.au
 0.0.0.0 barrons.com
@@ -33,6 +35,7 @@
 0.0.0.0 coolum-news.com.au
 0.0.0.0 couriermail.com.au
 0.0.0.0 cqnews.com.au
+0.0.0.0 crimeandinvestigationnetwork.com
 0.0.0.0 cruise1323.com.au
 0.0.0.0 dailyexaminer.com.au
 0.0.0.0 dailymercury.com.au
@@ -73,6 +76,10 @@
 0.0.0.0 fox7austin.com
 0.0.0.0 fox9.com
 0.0.0.0 foxbusiness.com
+0.0.0.0 foxcomedy.pl
+0.0.0.0 foxcomedy.pt
+0.0.0.0 foxcorporation.com
+0.0.0.0 foxcrime.pt
 0.0.0.0 foxla.com
 0.0.0.0 foxnews.com
 0.0.0.0 foxnewsinsider.com
@@ -83,6 +90,8 @@
 0.0.0.0 foxsportsradio.iheart.com
 0.0.0.0 foxstudios.com
 0.0.0.0 foxtel.com.au
+0.0.0.0 foxtv.pl
+0.0.0.0 foxtv.pt
 0.0.0.0 frasercoastchronicle.com.au
 0.0.0.0 galwaybayfm.ie
 0.0.0.0 gardenista.com
@@ -122,6 +131,7 @@
 0.0.0.0 htande.com.au
 0.0.0.0 indianrealestateforum.com
 0.0.0.0 inmycommunity.pressreader.com
+0.0.0.0 investors.com
 0.0.0.0 iproperty.com.my
 0.0.0.0 iproperty.com.sg
 0.0.0.0 ipswichadvertiser.com.au
@@ -408,6 +418,7 @@
 0.0.0.0 m.wsfm.com.au
 0.0.0.0 m.wsj.com
 0.0.0.0 m.zondervan.com
+0.0.0.0 mainevent.com.au
 0.0.0.0 makaan.com
 0.0.0.0 mansionglobal.com
 0.0.0.0 marketwatch.com
@@ -422,6 +433,7 @@
 0.0.0.0 my20houston.com
 0.0.0.0 my9nj.com
 0.0.0.0 myfun.com
+0.0.0.0 mylifetime.com
 0.0.0.0 mynetworktv.com
 0.0.0.0 mytributes.com.au
 0.0.0.0 news-mail.com.au
@@ -434,6 +446,8 @@
 0.0.0.0 newslicensing.co.uk
 0.0.0.0 newsprinters.co.uk
 0.0.0.0 newsxtend.com.au
+0.0.0.0 nick.com.au
+0.0.0.0 nickjr.com.au
 0.0.0.0 noosanews.com.au
 0.0.0.0 northernstar.com.au
 0.0.0.0 novafm.com.au
@@ -446,8 +460,10 @@
 0.0.0.0 onebigswitch.com.au
 0.0.0.0 onebigswitch.ie
 0.0.0.0 opcity.com
+0.0.0.0 pa.media
 0.0.0.0 pagesix.com
 0.0.0.0 peakfm.co.uk
+0.0.0.0 postcourier.com.pg
 0.0.0.0 proptiger.com
 0.0.0.0 pulse1.co.uk
 0.0.0.0 pulse2.co.uk
@@ -475,7 +491,9 @@
 0.0.0.0 signal2.co.uk
 0.0.0.0 signal80s.co.uk
 0.0.0.0 simplyzesty.com
+0.0.0.0 skygo.co.nz
 0.0.0.0 skynews.com.au
+0.0.0.0 skyweather.com.au
 0.0.0.0 smartexpo.com
 0.0.0.0 smartline.com.au
 0.0.0.0 smartsource.com
@@ -496,6 +514,8 @@
 0.0.0.0 supercoach.com.au
 0.0.0.0 swanseasound.co.uk
 0.0.0.0 switchdigital.com
+0.0.0.0 streamotion.com.au
+0.0.0.0 talk.tv
 0.0.0.0 talkradio.co.uk
 0.0.0.0 talksport.com
 0.0.0.0 taste.com.au
@@ -515,6 +535,7 @@
 0.0.0.0 thewave80s.co.uk
 0.0.0.0 theweeklytimes.com.au
 0.0.0.0 thinkofliving.com
+0.0.0.0 thomasnelson.com
 0.0.0.0 tibus.com
 0.0.0.0 timescurrencyservices.co.uk
 0.0.0.0 tmz.com
@@ -530,6 +551,7 @@
 0.0.0.0 virginradio.co.uk
 0.0.0.0 vogue.com.au
 0.0.0.0 warwickdailynews.com.au
+0.0.0.0 watch.australiachannel.com.au
 0.0.0.0 watchmy27.com
 0.0.0.0 wave965.com
 0.0.0.0 westernstarnews.com.au
