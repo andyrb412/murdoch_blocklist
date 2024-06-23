@@ -64,6 +64,7 @@
 0.0.0.0 fox.com
 0.0.0.0 fox10phoenix.com
 0.0.0.0 fox13news.com
+0.0.0.0 fox17online.com
 0.0.0.0 fox26houston.com
 0.0.0.0 fox2detroit.com
 0.0.0.0 fox32chicago.com
@@ -208,6 +209,7 @@
 0.0.0.0 m.fox.com
 0.0.0.0 m.fox10phoenix.com
 0.0.0.0 m.fox13news.com
+0.0.0.0 m.fox17online.com
 0.0.0.0 m.fox26houston.com
 0.0.0.0 m.fox2detroit.com
 0.0.0.0 m.fox32chicago.com
@@ -630,6 +632,7 @@
 0.0.0.0 www.fox.com
 0.0.0.0 www.fox10phoenix.com
 0.0.0.0 www.fox13news.com
+0.0.0.0 www.fox17online.com
 0.0.0.0 www.fox26houston.com
 0.0.0.0 www.fox2detroit.com
 0.0.0.0 www.fox32chicago.com
